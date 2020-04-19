@@ -13,3 +13,7 @@
 <div style="margin-top: -0.25rem">
     <span style="margin-left: 22%;">GraphQL + React + Webpack = ❤</span>
 </div>
+
+---
+
+### Thank you
