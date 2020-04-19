@@ -62,8 +62,8 @@ class TemplateWrapper extends Component {
           title={`${site.siteMetadata.title} — ${site.siteMetadata.name}`}
         />
         <Header
-          name={site.siteMetadata.name}
-          title={site.siteMetadata.title}
+          title={site.siteMetadata.name}
+          name={site.siteMetadata.title}
           date={site.siteMetadata.date}
         />
         <Swipeable
