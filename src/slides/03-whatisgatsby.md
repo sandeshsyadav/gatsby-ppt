@@ -1,5 +1,13 @@
+
+<img src="gatsby_flow.jpeg" alt="gatsby flow"/>
+
+---
+
 <h1 style="">What is GatsbyJs</h1>
 <ul>
+ <li>
+ Gatsby is a shortcut to allow developers to quickly build excellent apps and sites.
+ </li>
   <li>
     Gatsby is a React-based, GraphQL powered, static site generator
   </li>
