@@ -23,7 +23,7 @@
      Loves playing <span style="text-decoration: line-through;">soccer</span> football
     </li>
     <li>
-     Loves outdoor
+     Loves adventures 
     </li>
  </ul>
 </div>

@@ -6,7 +6,7 @@
 <h1 style="">What is GatsbyJs</h1>
 <ul>
  <li>
- Gatsby is a shortcut to allow developers to quickly build excellent apps and sites.
+  Gatsby is a shortcut to allow developers to quickly build excellent apps and sites
  </li>
   <li>
     Gatsby is a React-based, GraphQL powered, static site generator
@@ -21,7 +21,3 @@
 <div style="margin-top: -0.25rem">
     <span style="margin-left: 22%;">GraphQL + React + Webpack = ❤</span>
 </div>
-
----
-
-### Thank you
