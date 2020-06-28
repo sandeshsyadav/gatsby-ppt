@@ -12,10 +12,6 @@
   <li>
     GraphQL is <span style="font-style: oblique;
     color: darkorange;">strongly-typed</span>, and with that you can <span style="font-style: oblique;
-    color: darkorange;">validate a query</span> within the GraphQL type system before execution. 
+    color: darkorange;">validate a query</span> within the GraphQL type system before execution
   </li>
 <ul>
-
----
-
-### Thank you
